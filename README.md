@@ -1,5 +1,7 @@
 ## waf-coverage
 
+[![Join the chat at https://gitter.im/drahnr/waf-coverage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drahnr/waf-coverage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 If you pass `--with-coverage` flag to waf, coverage files will be generated.
 
 
